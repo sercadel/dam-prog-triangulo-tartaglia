@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tartaglia
+comment0.text=\r\n\ Una\ clase\ que\ modela\ un\ tri\u00E1ngulo\ de\ tartaglia\r\n\ \r\n\ @author\ sercadel\r\n\ @version\ 0.1\r\n
+comment1.params=filas
+comment1.target=Tartaglia(int)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Tartaglia\r\n\ \r\n\ @param\ \ filas\ \ \ n\u00FAmero\ de\ filas\ del\ tri\u00E1ngulo\r\n
+comment2.params=
+comment2.target=Tartaglia()
+comment2.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Tartaglia\r\n
+comment3.params=
+comment3.target=void\ dibujarTriangulo()
+comment3.text=\r\n\ Funci\u00F3n\ que\ dibuja\ el\ tri\u00E1ngulo\ en\ pantalla\r\n\ \r\n
+comment4.params=cuantos
+comment4.target=void\ escrbirTerminoVacio(int)
+comment4.text=\r\n\ Funci\u00F3n\ que\ dibuja\ el\ n\u00FAmero\ de\ espacios\ pasados\ por\ par\u00E1metro\r\n\ \r\n\ @param\ \ cuantos\ \ \ n\u00FAmero\ de\ espacios\ a\ aplicar\r\n
+comment5.params=
+comment5.target=int\ getFilas()
+comment5.text=\r\n\ Funci\u00F3n\ que\ devuelve\ el\ n\u00FAmero\ de\ filas\ del\ tri\u00E1ngulo\r\n\ \r\n\ @return\ \ \ \ \ el\ n\u00FAmerode\ filas\ del\ tri\u00E1ngulo\r\n
+comment6.params=filas
+comment6.target=void\ setFilas(int)
+comment6.text=\r\n\ Funci\u00F3n\ que\ establece\ el\ n\u00FAmero\ de\ filas\ del\ tri\u00E1ngulo\r\n\ \r\n\ @param\ \ filas\ \ \ n\u00FAmero\ de\ filas\ del\ tri\u00E1ngulo\r\n
+numComments=7
